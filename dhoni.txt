@@ -3,5 +3,5 @@
      <h1> 
      <Welcome to super kings>
         
-	<h2>
+	<p2>
 
